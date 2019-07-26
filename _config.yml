@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Tally Wiesenberg
+title: Tally
 
 # Short description of your site
-description: At The Intersection of Social Studies and Data Science
+description: At The Intersection of Social Studies and Data 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
