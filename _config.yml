@@ -38,13 +38,13 @@ avatar: "/img/patapsco 19 (3).jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#81b6e3"
+navbar-col: "#f2d576"
 navbar-text-col: "#404040"
-navbar-children-col: "#81b6e3"
-page-col: "#81b6e3"
+navbar-children-col: "#f2d576"
+page-col: "#f2d576"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#81b6e3"
+footer-col: "#f2d576"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
