@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Community Health and the Depression Epidemic, Part 1
+subtitle: Introduction
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
