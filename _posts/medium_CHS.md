@@ -1,3 +1,7 @@
+---
+layout: post
+title: The Age of Anxiety in New York: A Data Inquiry in Public Health
+---
 
 # The Age of Anxiety in New York: A Data Inquiry in Public Health
 
