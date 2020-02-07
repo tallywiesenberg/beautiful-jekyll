@@ -21,9 +21,8 @@ description: At The Intersection of Social Studies and Data Science
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+  Medium Links:
+    - Medium Post 1: "https://medium.com/@tallywiesenberg/the-age-of-anxiety-in-new-york-a-data-inquiry-in-public-health-4fce123bc2a2"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
